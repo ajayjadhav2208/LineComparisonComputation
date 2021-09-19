@@ -1,11 +1,6 @@
-package Bridgelabz.java;
+package com.bridgelabz;
 
-public class Main {
-
-    public static void main(String[] args) {
-        System.out.println("Welcome to the LineComparisonComputation");
-    }
-
+public class LineComparisonComputation {
     int x1, y1, x2, y2, x3, y3, x4, y4;
     double line1, line2;
     Scanner scanner = new Scanner(System.in);
@@ -69,3 +64,5 @@ public class Main {
         line.compareTo();
     }
 }
+
+
